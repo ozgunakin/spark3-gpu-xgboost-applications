@@ -1,12 +1,12 @@
 # Spark3 GPU XGboost Applications
 
-## Launch Setup EC2 Instance on AWS
+## Launch & Setup EC2 Instance on AWS
 
 Before you start the application you need to follow the steps in the repository linked below.
 
 [https://github.com/ozgunakin/spark3-gpu-nvidia-rapidsai-setup-on-aws-ec2](https://github.com/ozgunakin/spark3-gpu-nvidia-rapidsai-setup-on-aws-ec2)
 
-## Download the Datasets and the Application Files.
+## Download the Dataset and the Application Files.
 
 We will use mortgage, agaricus and taxi datasets for XGboost examples. All datasets and jupyter notebooks are placed in this repository.&#x20;
 
@@ -32,7 +32,7 @@ tar -xvf taxi-small.tar
 mv taxi /opt/xgboost
 ```
 
-## GPU Based XGBoost Applications
+## Run GPU Based XGBoost Applications
 
 You can find notebooks for XGBoost applications designed by using three different datasets in the notebooks directory of the repository that we have downloaded in the previous section.
 

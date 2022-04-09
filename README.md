@@ -64,6 +64,7 @@ jupyter notebook list
 ![Jupyter Notebook](<.gitbook/assets/image (1).png>)
 
 * [x] All notebooks are placed in the notebooks file. You can run them for testing your GPU integrated Spark with XGboost models.&#x20;
+* [x] Those notebooks are customized versions of the notebooks in spark-rapids-exmaples repository of NVIDIA. You can find more examples at [https://github.com/NVIDIA/spark-rapids-examples](https://github.com/NVIDIA/spark-rapids-examples)
 
 ## Check GPU Usage
 

@@ -48,11 +48,10 @@ nohup jupyter notebook --ip 0.0.0.0 &
 jupyter notebook list
 ```
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 
 * [x] Open Jupyter Notebook in Your Browser
 
-```
-```
+![](.gitbook/assets/image.png)
 
 ####

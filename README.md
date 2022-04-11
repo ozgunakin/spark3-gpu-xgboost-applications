@@ -1,5 +1,7 @@
 # Spark3 GPU XGboost Applications
 
+### These instructions are prepared for "Introduction to Deep Learning with Apache Spark" lectures  given by Prof. Dr. Altan Çakır in "DeepLearn 2022 Spring - 5th International School on Deep Learning"
+
 ## Launch & Setup EC2 Instance on AWS
 
 Before you start the application you need to follow the steps in the repository linked below.

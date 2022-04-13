@@ -6,13 +6,17 @@
 
 Before you start the application you need to follow the steps in the repository linked below. You can find the instructions for launching an EC2 instance on AWS and setting up Spark3 with GPU configuration in the link.&#x20;
 
-[Gpu-Based-Spark3-on-EC2](https://github.com/ozgunakin/spark3-gpu-nvidia-rapidsai-setup-on-aws-ec2)
+[GPU-Based-Spark3-on-EC2](https://github.com/ozgunakin/spark3-gpu-nvidia-rapidsai-setup-on-aws-ec2)
 
 AWS EC2 instructions will be followed in this lecture. However, If you want to install Spark3 on your local machine you can find the instructions below.&#x20;
 
 [Spar3-Setup-on-Ubuntu\_20.04](https://github.com/ozgunakin/spark3-pseudo-cluster-installation-on-ubuntu20.04)
 
 [Spark3-Setup-on-Windows](spark\_installation\_for\_windows.pdf)
+
+You can also find the comparison table of the cloud services classified according to cloud providers in the following link.
+
+[Compare-Cloud](https://comparecloud.in)
 
 ## Download the Dataset and the Application Files.
 

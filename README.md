@@ -8,9 +8,9 @@ Before you start the application you need to follow the steps in the repository 
 
 [Gpu-Based-Spark3-on-EC2](https://github.com/ozgunakin/spark3-gpu-nvidia-rapidsai-setup-on-aws-ec2)
 
-If you want to install spark3 on your local machine you can find the instructions below.
+AWS EC2 instructions will be followed in this lecture. However, If you want to install based spark3 on your local machine you can find the instructions below.&#x20;
 
-[Spark3-Pseudocluster-on-Ubuntu\_20.04](https://github.com/ozgunakin/spark3-pseudo-cluster-installation-on-ubuntu20.04)
+[Spar3-Setup-on-Ubuntu\_20.04](https://github.com/ozgunakin/spark3-pseudo-cluster-installation-on-ubuntu20.04)
 
 Spark3-Pseudocluster-on-Windows
 

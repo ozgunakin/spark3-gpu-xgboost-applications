@@ -12,7 +12,7 @@ AWS EC2 instructions will be followed in this lecture. However, If you want to i
 
 [Spar3-Setup-on-Ubuntu\_20.04](https://github.com/ozgunakin/spark3-pseudo-cluster-installation-on-ubuntu20.04)
 
-Spark3-Pseudocluster-on-Windows
+[Spark3-Setup-on-Windows](spark\_installation\_for\_windows.pdf)
 
 ## Download the Dataset and the Application Files.
 

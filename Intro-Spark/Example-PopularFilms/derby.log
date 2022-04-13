@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Dec 25 18:46:04 EET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0167-e642-4eaa-00000ad56910 
+on database directory /Users/cakir/Desktop/BigDataLect/Sources/SparkCourse/Cambridge-Basics/Example-PopularFilms/metastore_db with class loader sun.misc.Launcher$AppClassLoader@685f4c2e 
+Loaded from file:/usr/local/Cellar/apache-spark/2.3.0/libexec/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_111-b14
+user.dir=/Users/cakir/Desktop/BigDataLect/Sources/SparkCourse/Cambridge-Basics/Example-PopularFilms
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

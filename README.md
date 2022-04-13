@@ -2,11 +2,17 @@
 
 ### These instructions are prepared for "Introduction to Deep Learning with Apache Spark" lectures  given by Prof. Dr. Altan Çakır in "DeepLearn 2022 Spring - 5th International School on Deep Learning"
 
-## Launch & Setup EC2 Instance on AWS
+## Setup & Launch GPU Based Spark3&#x20;
 
-Before you start the application you need to follow the steps in the repository linked below.
+Before you start the application you need to follow the steps in the repository linked below. You can find the instructions for launching an EC2 instance on AWS and setting up Spark3 with GPU configuration in the link.&#x20;
 
-[https://github.com/ozgunakin/spark3-gpu-nvidia-rapidsai-setup-on-aws-ec2](https://github.com/ozgunakin/spark3-gpu-nvidia-rapidsai-setup-on-aws-ec2)
+[Gpu-Based-Spark3-on-EC2](https://github.com/ozgunakin/spark3-gpu-nvidia-rapidsai-setup-on-aws-ec2)
+
+If you want to install spark3 on your local machine you can find the instructions below.
+
+[Spark3-Pseudocluster-on-Ubuntu\_20.04](https://github.com/ozgunakin/spark3-pseudo-cluster-installation-on-ubuntu20.04)
+
+Spark3-Pseudocluster-on-Windows
 
 ## Download the Dataset and the Application Files.
 

@@ -1,6 +1,6 @@
 # Spark3 GPU XGboost Applications
 
-### These instructions are prepared for "Introduction to Deep Learning with Apache Spark" lectures  given by Prof. Dr. Altan Çakır in "DeepLearn 2022 Spring - 5th International School on Deep Learning"
+### These instructions are prepared for "Introduction to Big Data with Apache Spark" lectures given by Prof. Dr. Altan Çakır in "BigDat 2023 Summer - 7th International School on Big Data"
 
 ## Setup & Launch GPU Based Spark3&#x20;
 
@@ -54,9 +54,11 @@ You can find notebooks for XGBoost applications designed by using three differen
 pip3 install -q findspark
 ```
 
-* [x] Open Jupyter Notebook in /opt/xgboost/ directory.
+* [x] Install and open Jupyter Notebook in /opt/xgboost/ directory.
 
 ```
+pip3 install notebook==6.4.9
+
 cd /opt/xgboost/spark3-gpu-xgboost-applications
 
 nohup jupyter notebook --ip 0.0.0.0 &
